@@ -1,7 +1,7 @@
 {
   "name": "webpack-ks3-oss",
   "version": "1.0.1",
-  "description": "'apload assets file to ks3'",
+  "description": "upload assets file to ks3",
   "main": "index.js",
   "author": "fangyingchun",
   "license": "ISC",
