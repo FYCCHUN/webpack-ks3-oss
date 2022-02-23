@@ -100,7 +100,6 @@ const config = {
 describe('webpack-ks3-oss', () => {
   it('upload files in webpack', async() => {
     const res = await runWebapck(config);
-    console.log('res',res);
     expect(res).toBe('done');
   })
 })
